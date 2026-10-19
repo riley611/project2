@@ -3,6 +3,7 @@ Project 2 - Automating Secure Coding with CI/CD Pipelines
 Your objective for this project is to research and deploy a static analysis tool for Python and incorporate into a workflow when developing the code using the desktop environment configured in Unit 1. To test this workflow, you will design and code a moderately complex Python application using secure coding best practices including verification strategies for code review, automated static analysis and linting.
 
 Deliverables
+
 1.
 A well-written, organized Word document fulfilling the following specific requirements:
 a.
