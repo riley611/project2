@@ -2,7 +2,7 @@ import subprocess
 import sys
 
 # BAD: Hardcoded secret (Will trigger Bandit B105 / hardcoded password check)
-DATABASE_PASSWORD = "super_secret_admin_password_123"
+DATABASE_PASSWORD = "1H0P3_iPASS645"
 
 def insecure_command_runner(user_input):
     subprocess.run(
