@@ -1,7 +1,6 @@
 import subprocess
 import sys
 
-# BAD: Hardcoded secret (Will trigger Bandit B105 / hardcoded password check)
 DATABASE_PASSWORD = "1H0P3_iPASS645"
 
 def insecure_command_runner(user_input):

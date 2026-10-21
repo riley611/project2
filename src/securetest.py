@@ -13,4 +13,3 @@ def secure_command_runner(user_input):
 
 if __name__ == "__main__":
     secure_command_runner("Secure Test Complete")
-    
